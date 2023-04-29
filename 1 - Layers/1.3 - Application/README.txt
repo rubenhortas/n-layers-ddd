@@ -1,0 +1,3 @@
+This layer should be quite 'thin', simply call other components from other layers taking into account that here we must implement exclusively required aspects for the specific operation of the application.
+We must not include here logic of domain/business. In some projects, it would be possible to not need this layer, it simply depends on whether "Server" functionality appears that is not logical from the Domain but it has to be implemented because it is required by our application specific. 
+For example, invoking an export of information to files, etc. (although the implementation of the final action is actually done by classes in the layer of Infrastructure).
