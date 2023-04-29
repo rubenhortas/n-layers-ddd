@@ -7,4 +7,4 @@ Example extracted from the book: [Arquitectura N-Capas DDD .NET 4.0 (N-Layer Arc
 - For an up-to-date reference application on Microservices/Containers Architecture with .NET Core, check this: [http://aka.ms/MicroservicesArchitecture](http://aka.ms/MicroservicesArchitecture)
 
 ## Support
-If you find these examples useful you can star this repo.
+If you find this example useful you can star this repo.
