@@ -11,6 +11,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Layers", "1 - Layers", "{12705C0C-AC38-4828-BBCA-56C0D406B991}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Database", "2 - Database", "{B56E15E6-4B54-474B-B392-84BBF4C7FFE3}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 - Presentation", "1.1 - Presentation", "{A7639497-C07E-49A0-85D4-430FE04EBF04}"
 	ProjectSection(SolutionItems) = preProject
@@ -32,28 +35,55 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5 - Infrastructure", "1.5
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution items", "Solution items", "{17552491-C7A8-48B6-A9AB-BD2D26B152B5}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Agents", "Agents", "{2CCA2462-7AFF-449E-9457-3617CD9181AC}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RIA", "RIA", "{73CC7D71-355E-4DDD-9583-D4C6F760DACA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Silverlight", "Silverlight", "{C677EFE5-D112-42D2-B864-4C23E14A31B2}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Silverlight Mobile", "Silverlight Mobile", "{AF4370FC-FD64-4555-BE66-966D264CBF5A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{E0630BB0-5CEE-442C-B3D3-D727CDA65F82}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.NET", "ASP.NET", "{5C566862-93C5-45EE-8087-5B1766F759A4}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ASP.NET MVC", "ASP.NET MVC", "{FCC63F28-F3BD-4F36-A935-6A1A85589FCF}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Windows", "Windows", "{0F295226-BADD-4A29-8BA7-985631F680E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OBA", "OBA", "{AC21CE36-3307-4AB5-BE5D-F2F350AF3F9F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WinForms", "WinForms", "{9690BD92-C06B-4ABB-AC31-1B4F2FB957F7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WPF", "WPF", "{7A4B4E86-7A5D-4F72-A6BA-E1AC22B11428}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.4.1 - Core", "1.4.1 - Core", "{F8721CE8-833B-4F55-8978-212DD2AC4003}"
 EndProject
@@ -67,10 +97,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5.2 - Cross Cutting", "1.
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2.1 - Core", "1.2.1 - Core", "{BF0AC299-73AC-4686-BFA7-3455A09D7846}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2.2 - MainModule", "1.2.2 - MainModule", "{40C3F04F-5503-4E8E-8992-0E574F286ED8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3.1 - MainModule", "1.3.1 - MainModule", "{12B06CAA-5828-4FD6-81FE-41359B45880B}"
+	ProjectSection(SolutionItems) = preProject
+		.gitkeep = .gitkeep
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Core", "1 - Layers\1.4 - Domain\1.4.1 - Core\Domain.Core\Domain.Core.csproj", "{A05C9A04-DB31-4DB3-A234-A5787075BA43}"
 EndProject
