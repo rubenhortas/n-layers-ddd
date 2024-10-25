@@ -62,6 +62,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5.1 - Data", "1.5.1 - Data", "{18F957BC-217E-4174-9C71-7F688354C8C0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5.2 - Cross Cutting", "1.5.2 - Cross Cutting", "{A80EA54C-DB26-499E-99D6-D27E3790E684}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2.1 - Core", "1.2.1 - Core", "{BF0AC299-73AC-4686-BFA7-3455A09D7846}"
 EndProject
@@ -75,17 +78,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Core.Entities", "1 -
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Core.Tests", "1 - Layers\1.4 - Domain\1.4.1 - Core\Domain.Core.Tests\Domain.Core.Tests.csproj", "{D2C90C40-FBB7-4F2F-9B13-3B37A656FC4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.MainModule", "1 - Layers\1.4 - Domain\1.4.2 - MainModule\Domain.MainModule\Domain.MainModule.csproj", "{936933E7-1927-4B69-98A3-9989BC08F0FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.MainModule", "1 - Layers\1.4 - Domain\1.4.2 - MainModule\Domain.MainModule\Domain.MainModule.csproj", "{936933E7-1927-4B69-98A3-9989BC08F0FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.MainModule.Entities", "1 - Layers\1.4 - Domain\1.4.2 - MainModule\Domain.MainModule.Entities\Domain.MainModule.Entities.csproj", "{8558E677-8DDB-4B25-8678-E1902B476ABB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.MainModule.Entities", "1 - Layers\1.4 - Domain\1.4.2 - MainModule\Domain.MainModule.Entities\Domain.MainModule.Entities.csproj", "{8558E677-8DDB-4B25-8678-E1902B476ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.MainModule.Tests", "1 - Layers\1.4 - Domain\1.4.2 - MainModule\Domain.MainModule.Tests\Domain.MainModule.Tests.csproj", "{D25EF79F-7903-46E4-AF57-977C8FA08E35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.MainModule.Tests", "1 - Layers\1.4 - Domain\1.4.2 - MainModule\Domain.MainModule.Tests\Domain.MainModule.Tests.csproj", "{D25EF79F-7903-46E4-AF57-977C8FA08E35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Data.Core", "1 - Layers\1.5 - Infrastructure\1.5.1 - Data\Infrastructure.Data.Core\Infrastructure.Data.Core.csproj", "{4BFBF8D3-FAAB-4F6C-B2E4-C8D2645ECA1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Data.Core", "1 - Layers\1.5 - Infrastructure\1.5.1 - Data\Infrastructure.Data.Core\Infrastructure.Data.Core.csproj", "{4BFBF8D3-FAAB-4F6C-B2E4-C8D2645ECA1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Data.Core.Tests", "1 - Layers\1.5 - Infrastructure\1.5.1 - Data\Infrastructure.Data.Core.Tests\Infrastructure.Data.Core.Tests.csproj", "{3FA10501-776B-4DCB-9EB4-72AF86FF3265}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Data.Core.Tests", "1 - Layers\1.5 - Infrastructure\1.5.1 - Data\Infrastructure.Data.Core.Tests\Infrastructure.Data.Core.Tests.csproj", "{3FA10501-776B-4DCB-9EB4-72AF86FF3265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure.Data.MainModule", "1 - Layers\1.5 - Infrastructure\1.5.1 - Data\Infrastructure.Data.MainModule\Infrastructure.Data.MainModule.csproj", "{FD38F86A-4929-4032-B956-91E9FB44FD69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure.Data.MainModule", "1 - Layers\1.5 - Infrastructure\1.5.1 - Data\Infrastructure.Data.MainModule\Infrastructure.Data.MainModule.csproj", "{FD38F86A-4929-4032-B956-91E9FB44FD69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
